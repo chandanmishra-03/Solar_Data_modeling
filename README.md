@@ -1,6 +1,4 @@
-<details><summary>Model Summary</summary>
-    <p>
-      # Building a data pipeline for highly unstructured renewable energy data.
+# Building a data pipeline for highly unstructured renewable energy data.
 
 ![](images/1.png)
 
